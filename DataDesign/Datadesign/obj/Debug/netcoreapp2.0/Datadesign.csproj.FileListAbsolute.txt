@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\bin\Debug\netcoreapp2.0\Datadesign.deps.json
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\bin\Debug\netcoreapp2.0\Datadesign.runtimeconfig.json
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\bin\Debug\netcoreapp2.0\Datadesign.runtimeconfig.dev.json
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\bin\Debug\netcoreapp2.0\Datadesign.dll
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\bin\Debug\netcoreapp2.0\Datadesign.pdb
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.AssemblyInfo.cs
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.dll
+C:\Users\student\Desktop\DataDesign\Datadesign\Datadesign\obj\Debug\netcoreapp2.0\Datadesign.pdb
